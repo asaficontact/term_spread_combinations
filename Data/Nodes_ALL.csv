@@ -1,0 +1,11 @@
+id,code,Region,Govt.Debt,GDP.Growth.Rate,,bond
+US,1,AM,1.36,0.022,,US bond returns
+UK,2,EU,1.16,0.018,,UK bond returns
+AUS,3,AS,0.66,0.024,,AUS bond returns
+EUR,2,EU,0.893,0.024,,EUR bond returns
+JPN,3,AS,2.34,0.019,,JPN bond returns
+SWE,2,EU,0.58,0.021,,SWE bond returns
+NZ,3,AS,0.421,0.031,,NZ bond returns
+SWZ,2,EU,0.43,0.016,,SWZ bond returns
+CAN,1,AM,1.09,0.03,,CAN bond returns
+NOR,2,EU,0.43,0.02,,NOR bond returns
