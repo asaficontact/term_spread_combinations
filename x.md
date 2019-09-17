@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \#LyX 2.3 created this file. For more info see http://www.lyx.org/
 \lyxformat 544 \\begin\_document \\begin\_header
 \save\_transient\_properties true \origin unavailable \textclass article
@@ -2211,3 +2212,10 @@ relation with changes in financial variables.
 \\end\_layout
 
 \\end\_body \\end\_document
+=======
+<object data="https://drive.google.com/open?id=1q9zrpIblG7c1l0FkFEOKeM0ut-mvkuHK" type="application/pdf" width="700px" height="700px">
+    <embed src="https://drive.google.com/open?id=1q9zrpIblG7c1l0FkFEOKeM0ut-mvkuHK">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/open?id=1q9zrpIblG7c1l0FkFEOKeM0ut-mvkuHK">Download PDF</a>.</p>
+    </embed>
+</object>
+>>>>>>> origin/master
