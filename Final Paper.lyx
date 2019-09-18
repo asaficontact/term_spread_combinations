@@ -97,7 +97,7 @@ In this paper, I show how different combinations and components of term
  variable might hold true depending on the combination and component of
  term spread that we are taking into consideration.
  This paper provides a mechanism through which we can identify the best
- combination of a term spread for creating an efficient macro fiance model.
+ combination of a term spread for creating an efficient macro finance model.
  
 \end_layout
 
@@ -238,7 +238,7 @@ The shape of the yield curve tend to change depending on the long run and
 placement h
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset space \hspace{}
@@ -253,7 +253,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Basic TS/1.png
+	filename Results/Basic TS/1.png
 	scale 45
 
 \end_inset
@@ -271,7 +271,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Basic TS/2.png
+	filename Results/Basic TS/2.png
 	scale 45
 
 \end_inset
@@ -550,7 +550,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Termspread/YLDS.png
+	filename Results/Termspread/YLDS.png
 	width 72text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -564,7 +564,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Termspread/YLDS1.png
+	filename Results/Termspread/YLDS1.png
 	width 72text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -616,7 +616,7 @@ TS_{t}^{i}=EXP_{t}^{Long\thinspace Run}\thinspace-\thinspace EXP_{t}^{Short\thin
 placement ph
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing other 0
@@ -633,7 +633,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Termspread/EXP.png
+	filename Results/Termspread/EXP.png
 	width 72text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -647,7 +647,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Termspread/EXP1.png
+	filename Results/Termspread/EXP1.png
 	width 72text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -703,7 +703,7 @@ TS_{t}^{i}=TP_{t}^{Long\thinspace Run}\thinspace-\thinspace TP_{t}^{Short\thinsp
 placement ph
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing other 0
@@ -720,7 +720,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Termspread/TP.png
+	filename Results/Termspread/TP.png
 	width 72text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -734,7 +734,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Termspread/TP1.png
+	filename Results/Termspread/TP1.png
 	width 72text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -1507,7 +1507,7 @@ Spanning Test of Yield Curve Term Spread against CPI
 placement ph
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing other 0
@@ -1524,7 +1524,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/YLDS RESULTS/CPI/BETA/plotly.png
+	filename Results/YLDS RESULTS/CPI/BETA/plotly.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -1538,7 +1538,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/YLDS RESULTS/CPI/BETA/plotly1.png
+	filename Results/YLDS RESULTS/CPI/BETA/plotly1.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -1573,7 +1573,7 @@ Spanning Test of Yield Curve Term Spread against UNEMP
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing other 0
@@ -1590,7 +1590,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/YLDS RESULTS/UNEMP/BETA/plotly.png
+	filename Results/YLDS RESULTS/UNEMP/BETA/plotly.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -1604,7 +1604,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/YLDS RESULTS/UNEMP/BETA/plotly1.png
+	filename Results/YLDS RESULTS/UNEMP/BETA/plotly1.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -1643,7 +1643,7 @@ Spanning Test of Expectation Term Spread against CPI
 placement ph
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing other 0
@@ -1660,7 +1660,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/EXP Component/CPI/BETA/plotly.png
+	filename Results/EXP Component/CPI/BETA/plotly.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -1674,7 +1674,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/EXP Component/CPI/BETA/plotly1.png
+	filename Results/EXP Component/CPI/BETA/plotly1.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -1709,7 +1709,7 @@ Spanning Test of Expectation Term Spread against UNEMP
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing other 0
@@ -1726,7 +1726,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/EXP Component/UNEMP/BETA/plotly.png
+	filename Results/EXP Component/UNEMP/BETA/plotly.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -1740,7 +1740,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/EXP Component/UNEMP/BETA/plotly1.png
+	filename Results/EXP Component/UNEMP/BETA/plotly1.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -1779,7 +1779,7 @@ Spanning Test of Term Premium Term Spread against CPI
 placement ph
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing other 0
@@ -1796,7 +1796,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/TP Component/CPI/BETA/plotly.png
+	filename Results/TP Component/CPI/BETA/plotly.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -1810,7 +1810,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/TP Component/CPI/BETA/plotly1.png
+	filename Results/TP Component/CPI/BETA/plotly1.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -1845,7 +1845,7 @@ Spanning Test of Term Premium Term Spread against UNEMP
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing other 0
@@ -1862,7 +1862,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/TP Component/UNEMP/BETA/plotly.png
+	filename Results/TP Component/UNEMP/BETA/plotly.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -1876,7 +1876,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/TP Component/UNEMP/BETA/plotly1.png
+	filename Results/TP Component/UNEMP/BETA/plotly1.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -1965,7 +1965,7 @@ Spanning test for expectation term spread,
  in which the combination being used does not matter as all of them appear
  to successfully spans the macro variables being considered.
  For further work, spanning test for expectation term spread needs to be
- conducted against other macro variables,such as GDP growth, to identify
+ conducted against other macro variables, such as GDP growth, to identify
  if all combinations also span other macro variables and not just CPI and
  UNEMP.
 \end_layout
@@ -2005,8 +2005,8 @@ The results in this section indicate that some combinations and components
  This shows that different segments of the term spreads have different macro
  variables spanned.
  For this reason, it is important to use this approach while developing
- macro fiance models in order to identify the best combination of term spread
- that can be used for the respective model.
+ macro finance models in order to identify the best combination of term
+ spread that can be used for the respective model.
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -2147,7 +2147,7 @@ R Squared Value for CPI over the Short Run
 placement ph
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing other 0
@@ -2164,7 +2164,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Forecasting/Short Run/CPI/R Squared/scatterplot3d.1.png
+	filename Results/Forecasting/Short Run/CPI/R Squared/scatterplot3d.1.png
 	width 80text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -2178,7 +2178,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Forecasting/Short Run/CPI/R Squared/scatterplot3d.png
+	filename Results/Forecasting/Short Run/CPI/R Squared/scatterplot3d.png
 	width 80text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -2218,7 +2218,7 @@ Beta Value and Significance for CPI over the Short Run
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing other 0
@@ -2235,7 +2235,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Forecasting/Short Run/CPI/Beta/plotly.png
+	filename Results/Forecasting/Short Run/CPI/Beta/plotly.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -2249,7 +2249,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Forecasting/Short Run/CPI/Beta/plotly1.png
+	filename Results/Forecasting/Short Run/CPI/Beta/plotly1.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -2284,7 +2284,7 @@ R Squared Value for CPI over the Long Run
 placement ph
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing other 0
@@ -2301,7 +2301,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Forecasting/Long Run/CPI/R Squared/scatterplot3d.1.png
+	filename Results/Forecasting/Long Run/CPI/R Squared/scatterplot3d.1.png
 	width 80text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -2315,7 +2315,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Forecasting/Long Run/CPI/R Squared/scatterplot3d.png
+	filename Results/Forecasting/Long Run/CPI/R Squared/scatterplot3d.png
 	width 80text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -2355,7 +2355,7 @@ Beta Value and Significance for CPI over the Long Run
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing other 0
@@ -2372,7 +2372,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Forecasting/Long Run/CPI/Beta/plotly.png
+	filename Results/Forecasting/Long Run/CPI/Beta/plotly.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -2386,7 +2386,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Forecasting/Long Run/CPI/Beta/plotly1.png
+	filename Results/Forecasting/Long Run/CPI/Beta/plotly1.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -2421,7 +2421,7 @@ R Squared Value for UNEMP over the Short Run
 placement ph
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing other 0
@@ -2438,7 +2438,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Forecasting/Short Run/UNEMP/R Squared/scatterplot3d.1.png
+	filename Results/Forecasting/Short Run/UNEMP/R Squared/scatterplot3d.1.png
 	width 80text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -2452,7 +2452,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Forecasting/Short Run/UNEMP/R Squared/scatterplot3d.png
+	filename Results/Forecasting/Short Run/UNEMP/R Squared/scatterplot3d.png
 	width 80text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -2492,7 +2492,7 @@ Beta Value and Significance for UNEMP over the Short Run
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing other 0
@@ -2509,7 +2509,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Forecasting/Short Run/UNEMP/Beta/plotly.png
+	filename Results/Forecasting/Short Run/UNEMP/Beta/plotly.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -2523,7 +2523,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Forecasting/Short Run/UNEMP/Beta/plotly1.png
+	filename Results/Forecasting/Short Run/UNEMP/Beta/plotly1.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -2558,7 +2558,7 @@ R Squared Value for UNEMP over the Long Run
 placement ph
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing other 0
@@ -2575,7 +2575,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Forecasting/Long Run/UNEMP/R Squared/scatterplot3d.1.png
+	filename Results/Forecasting/Long Run/UNEMP/R Squared/scatterplot3d.1.png
 	width 80text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -2589,7 +2589,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Forecasting/Long Run/UNEMP/R Squared/scatterplot3d.png
+	filename Results/Forecasting/Long Run/UNEMP/R Squared/scatterplot3d.png
 	width 80text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -2629,7 +2629,7 @@ Beta Value and Significance for UNEMP over the Long Run
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing other 0
@@ -2646,7 +2646,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Forecasting/Long Run/UNEMP/Beta/plotly.png
+	filename Results/Forecasting/Long Run/UNEMP/Beta/plotly.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -2660,7 +2660,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/Forecasting/Long Run/UNEMP/Beta/plotly1.png
+	filename Results/Forecasting/Long Run/UNEMP/Beta/plotly1.png
 	width 140text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -2792,7 +2792,7 @@ Can the 1st Principle Component Analysis of all different combinations of
 placement ph
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing other 0
@@ -2809,7 +2809,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/PCA.png
+	filename Results/PCA.png
 	width 100text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -2823,7 +2823,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/PCA1.png
+	filename Results/PCA1.png
 	width 120text%
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -3405,7 +3405,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/scatterplots/CPI.png
+	filename Results/scatterplots/CPI.png
 	scale 60
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
@@ -3419,7 +3419,7 @@ status open
 
 
 \begin_inset Graphics
-	filename Macro-Finance Final Project/Results/scatterplots/UNEMP.png
+	filename Results/scatterplots/UNEMP.png
 	scale 60
 	BoundingBox 0bp 0bp 680bp 410bp
 	rotateOrigin rightTop
