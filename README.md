@@ -1,4 +1,4 @@
-# Term Spread Combinations: Its ability to Span di􏰀erent Macro-economic variables and explain their future movements.
+# Term Spread Combinations: Its ability to Span different Macro-economic variables and explain their future movements.
 
 In this project, I show how different combinations and components of term spread have varying shapes, 
 which can be analyzed in order to understand movements in the economy. Calculating term spread dispersion 
