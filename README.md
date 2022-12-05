@@ -8,6 +8,6 @@ hold true depending on the combination and component of term spread that we are 
 This project provides a mechanism through which we can identify the best combination of a term spread for creating an 
 efficient macro finance model.
 
-For Full Paper: [CLICK HERE](https://drive.google.com/open?id=1q9zrpIblG7c1l0FkFEOKeM0ut-mvkuHK)
+For Full Paper: [CLICK HERE](https://github.com/asaficontact/term_spread_combinations/blob/master/Final%20Paper.pdf)
 
 
