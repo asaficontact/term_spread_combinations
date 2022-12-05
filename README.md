@@ -9,5 +9,6 @@ This project provides a mechanism through which we can identify the best combina
 efficient macro finance model.
 
 Full Paper: [CLICK HERE](https://github.com/asaficontact/term_spread_combinations/blob/master/Final%20Paper.pdf)
+
 Project Presentation: [CLICK HERE](https://github.com/asaficontact/term_spread_combinations/blob/master/Project%20Presentation.pdf)
 
